@@ -9,7 +9,7 @@ with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
 
 setup(
     name="rw_banks",
-    version='0.0.2',
+    version='0.0.3',
     description="Get a list of licensed banks from Rwanda and their corresponding swift code, address, contact info, ussd code and bank code",
     long_description=long_description,
     py_modules=["rw_banks"],

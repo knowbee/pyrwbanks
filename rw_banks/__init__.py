@@ -22,7 +22,7 @@ banks = [
     "ussd_code": "*334#"
   },
   {
-    "name": "ACCESS BANK (RWANDA) PLC",
+    "name": "ACCESS BANK RWANDA PLC",
     "swift_code": "BKORRWRW",
     "bank_code": "BKOR",
     "address": "UTC, 3rd Floor, KN 4 Ave, Kigali, Rwanda",
@@ -85,7 +85,7 @@ banks = [
     "phone_number": "+250788190000",
     "toll_free": None,
     "email_address": "info-rwanda@equitybank.co.rw",
-    "ussd_code": "*247#"
+    "ussd_code": "*555#"
   },
   {
     "name": "KCB BANK RWANDA LTD",
