@@ -11,6 +11,28 @@ banks = [
     "ussd_code": None
   },
   {
+    "name": "ACCESS BANK RWANDA PLC",
+    "swift_code": "BKORRWRW",
+    "bank_code": "BKOR",
+    "address": "UTC, 3rd Floor, KN 4 Ave, Kigali, Rwanda",
+    "postal_code": "2059",
+    "phone_number": "+250788145300",
+    "toll_free": "5536",
+    "email_address": "rwandacontactcenter@accessbankplc.com",
+    "ussd_code": "*903#"
+  },
+  {
+    "name": "BANK OF AFRICA RWANDA LTD",
+    "swift_code": "AFRWRWRW",
+    "bank_code": "AFRW",
+    "address": "CHIC Building,, Kigali, Rwanda",
+    "postal_code": "265",
+    "phone_number": "+250788136205",
+    "toll_free": "5120",
+    "email_address": "info@boarwanda.com",
+    "ussd_code": None
+  },
+  {
     "name": "BANK OF KIGALI LIMITED",
     "swift_code": "BKIGRWRW",
     "bank_code": "BKIG",
@@ -22,15 +44,15 @@ banks = [
     "ussd_code": "*334#"
   },
   {
-    "name": "ACCESS BANK RWANDA PLC",
-    "swift_code": "BKORRWRW",
-    "bank_code": "BKOR",
-    "address": "UTC, 3rd Floor, KN 4 Ave, Kigali, Rwanda",
-    "postal_code": "2059",
-    "phone_number": "+250788145300",
+    "name": "BANQUE DE L'HABITAT DU RWANDA",
+    "swift_code": "LHRWRWR1",
+    "bank_code": "LHRW",
+    "address": "AVENUE DE LA JUSTICE",
+    "postal_code": "1034",
+    "phone_number": "+250571747",
     "toll_free": None,
-    "email_address": "rwandacontactcenter@accessbankplc.com",
-    "ussd_code": "*903#"
+    "email_address": None,
+    "ussd_code": None
   },
   {
     "name": "BANQUE NATIONALE DU RWANDA (BNR)",
@@ -44,15 +66,15 @@ banks = [
     "ussd_code": None
   },
   {
-    "name": "DEVELOPMENT BANK OF RWANDA PLC",
-    "swift_code": "BRDRRWRW",
-    "bank_code": "BRDR",
-    "address": "Development Bank of Rwanda, KN 3 Ave, Kigali, Rwanda",
-    "postal_code": "1341",
-    "phone_number": "+250252575080",
-    "toll_free": None,
-    "email_address": "brd@brd.rw",
-    "ussd_code": None
+    "name": "BANQUE POPULAIRE DU RWANDA LTD",
+    "swift_code": "BPRWRWRW",
+    "bank_code": "BPRW",
+    "address": "KN 67 St, Kigali, Rwanda",
+    "postal_code": "1348",
+    "phone_number": "+250788187200",
+    "toll_free": "1500",
+    "email_address": "customerservice@bpr.rw",
+    "ussd_code": "*182*6*1*1#"
   },
   {
     "name": "COGEBANQUE PLC",
@@ -64,6 +86,17 @@ banks = [
     "toll_free": "5050",
     "email_address": "cogebank@cogebank.com",
     "ussd_code": "*505#"
+  },
+  {
+    "name": "DEVELOPMENT BANK OF RWANDA PLC",
+    "swift_code": "BRDRRWRW",
+    "bank_code": "BRDR",
+    "address": "Development Bank of Rwanda, KN 3 Ave, Kigali, Rwanda",
+    "postal_code": "1341",
+    "phone_number": "+250252575080",
+    "toll_free": None,
+    "email_address": "brd@brd.rw",
+    "ussd_code": None
   },
   {
     "name": "ECOBANK RWANDA",
@@ -88,6 +121,28 @@ banks = [
     "ussd_code": "*555#"
   },
   {
+    "name": "GUARANTY TRUST BANK (RWANDA) LTD",
+    "swift_code": "GTBIRWRK",
+    "bank_code": "GTBI",
+    "address": "KN 2 Ave,1370",
+    "postal_code": "331",
+    "phone_number": "+250788149600",
+    "toll_free": None,
+    "email_address": "info@gtbank.com",
+    "ussd_code": "*182*6*1*7#"
+  },
+  {
+    "name": "I&M BANK PLC",
+    "swift_code": "IMRWRWRW",
+    "bank_code": "IMRW",
+    "address": "9 KN 3 Ave, Kigali, Rwanda",
+    "postal_code": "354",
+    "phone_number": "+250788162006",
+    "toll_free": "3227",
+    "email_address": "customerservices@imbank.co.rw",
+    "ussd_code": "*182*6*1*6#"
+  },
+  {
     "name": "KCB BANK RWANDA LTD",
     "swift_code": "KCBLRWRW",
     "bank_code": "KCBL",
@@ -97,6 +152,17 @@ banks = [
     "toll_free": None,
     "email_address": "contactus@rw.kcbbankgroup.com",
     "ussd_code": "*522#"
+  },
+  {
+    "name": "NCBA BANK RWANDA PLC",
+    "swift_code": "NCBAFRWRW",
+    "bank_code": "NCBAF",
+    "address": "Muhima, Nyarugenge, Umujyi wa, Kigali, Rwanda",
+    "postal_code": None,
+    "phone_number": "+250788691568",
+    "toll_free": None,
+    "email_address": None,
+    "ussd_code": None
   },
   {
     "name": "URWEGO OPPORTUNITY BANK LIMITED",
@@ -110,70 +176,15 @@ banks = [
     "ussd_code": "*501#"
   },
   {
-    "name": "BANQUE DE L'HABITAT DU RWANDA",
-    "swift_code": "LHRWRWR1",
-    "bank_code": "LHRW",
-    "address": "AVENUE DE LA JUSTICE",
-    "postal_code": "1034",
-    "phone_number": "+250571747",
-    "toll_free": None,
-    "email_address": None,
-    "ussd_code": None
-  },
-  {
-    "name": "GUARANTY TRUST BANK (RWANDA) LTD",
-    "swift_code": "GTBIRWRK",
-    "bank_code": "GTBI",
-    "address": "KN 2 Ave,1370",
-    "postal_code": "331",
-    "phone_number": "+250788149600",
-    "toll_free": None,
-    "email_address": "info@gtbank.com",
-    "ussd_code": None
-  },
-  {
-    "name": "BANQUE POPULAIRE DU RWANDA LTD",
-    "swift_code": "BPRWRWRW",
-    "bank_code": "BPRW",
-    "address": "KN 67 St, Kigali, Rwanda",
-    "postal_code": "1348",
-    "phone_number": "+250788187200",
-    "toll_free": "1500",
-    "email_address": "customerservice@bpr.rw",
-    "ussd_code": "*150#"
-  },
-  {
-    "name": "BANK OF AFRICA RWANDA LTD",
-    "swift_code": "AFRWRWRW",
-    "bank_code": "AFRW",
-    "address": "CHIC Building,, Kigali, Rwanda",
-    "postal_code": "265",
-    "phone_number": "+250788136205",
-    "toll_free": "5120",
-    "email_address": "info@boarwanda.com",
-    "ussd_code": None
-  },
-  {
-    "name": "I&M BANK PLC",
-    "swift_code": "IMRWRWRW",
-    "bank_code": "IMRW",
-    "address": "9 KN 3 Ave, Kigali, Rwanda",
-    "postal_code": "354",
-    "phone_number": "+250788162006",
-    "toll_free": "3227",
-    "email_address": "customerservices@imbank.co.rw",
-    "ussd_code": None
-  },
-  {
-    "name": "NCBA BANK RWANDA PLC",
-    "swift_code": "NCBAFRWRW",
-    "bank_code": "NCBAF",
-    "address": "Muhima, Nyarugenge, Umujyi wa, Kigali, Rwanda",
+    "name": "ZIGAMA CSS",
+    "swift_code": None,
+    "bank_code": None,
+    "address": "KG 178 St, Kigali, Rwanda",
     "postal_code": None,
-    "phone_number": "+250788691568",
-    "toll_free": None,
-    "email_address": None,
-    "ussd_code": None
+    "phone_number": "+250788305726",
+    "toll_free": "5005",
+    "email_address": "info@zigamacss.rw",
+    "ussd_code": "*182*6*1*4#"
   }
 ]
 def getBanks():
